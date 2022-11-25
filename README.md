@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Celia
-<img src="https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif"  width=100>
+<img src="https://media.giphy.com/media/3o7aD2ml5k1Vf8g8oM/giphy.gif"  width=300 height=100>
 
 - 👀 I’m interested in HTML, CSS, Flutter and travels ✈️
 - 🌱 I’m currently learning Web App Development
