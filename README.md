@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web App Development
 - 💞️ I’m looking to collaborate on Pizzacorn
 
-<img src="[https://media.giphy.com/media/GQCD2wS2ENtr8gMxpL/giphy.gif](https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif)">
+<img src="https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif">
 
 <!---
 CeliaBlanco1/CeliaBlanco1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
